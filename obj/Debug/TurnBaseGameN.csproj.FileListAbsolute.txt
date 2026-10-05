@@ -1,0 +1,13 @@
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\bin\Debug\TurnBaseGameN.exe.config
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\bin\Debug\TurnBaseGameN.exe
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\bin\Debug\TurnBaseGameN.pdb
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.csproj.AssemblyReference.cache
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\Interop.WMPLib.dll
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.csproj.ResolveComReference.cache
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.Form1.resources
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.Form2.resources
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.Properties.Resources.resources
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.csproj.GenerateResource.cache
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.exe
+C:\Users\Neo\Desktop\portfolios\TurnBaseGameN-fixed\TurnBaseGameN\obj\Debug\TurnBaseGameN.pdb
